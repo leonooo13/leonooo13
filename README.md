@@ -9,15 +9,15 @@
 
 🔭 ``Python`` and ``C`` or ``C++``
 
-📫 **Contect me：**<a href= "mailto:lidefree@qq.com">邮件</a>
+📫 **Contect me：**<a href= "mailto:lidefree@qq.com">MAIL</a>
 ## 🌠[Coding]
 > develop me
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=leonooo13&theme=calm&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonooo13&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
-<div align='center'>
+<h3 align='left'>
 
 ![Visitor Count](https://profile-counter.glitch.me/leonooo13/count.svg)
 
-</div>
+</h3>
