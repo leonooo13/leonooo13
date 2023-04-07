@@ -4,7 +4,7 @@
 
 - 🍻 Infomation Secrity
 - ⚡ C++ / Python.
-- ❤️ [email](lidefree@qq.com)
+- ❤️ [email](mail://lidefree@qq.com)
 - ✍️ [Blogger](https://github.com/leonooo13)
 - 🏃 CTF / HW / OWASP TOP 10 / 
 
