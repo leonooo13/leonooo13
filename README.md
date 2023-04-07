@@ -9,7 +9,8 @@
 
 📫 **Contect me：**<a href= "mailto:lidefree@qq.com">邮件</a>
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonooo13&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonooo13)](https://github.com/leonooo13/github-readme-stats)
-
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=leonooo13&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonooo13&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+</div>
 ![Visitor Count](https://profile-counter.glitch.me/leonooo13/count.svg)
