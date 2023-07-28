@@ -22,6 +22,8 @@
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/leonooo13/leonooo13/assets/github-contribution-grid-snake.svg" /></div>
 
+![](https://raw.githubusercontent.com/leonooo13/leonooo13/main/assets/github-contribution-grid-snake.svg)
+
 <h3 align='left'>
 
 ![Visitor Count](https://profile-counter.glitch.me/leonooo13/count.svg)
