@@ -19,7 +19,8 @@
 
 ## 🤖[Gihtub Contribution]
 > Commits
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/leonooo13/leonooo13/assets/github-contribution-grid-snake.svg" /></div>
+
+![](https://cdn.jsdelivr.net/gh/xxx/xxx@main/assets/github-contribution-grid-snake.svg)
 
 <h3 align='left'>
 
