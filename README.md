@@ -20,7 +20,7 @@
 ## 🤖[Gihtub Contribution]
 > Commits
 
-![](https://cdn.jsdelivr.net/gh/xxx/xxx@main/assets/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/leonooo13/leonooo13/assets/github-contribution-grid-snake.svg" /></div>
 
 <h3 align='left'>
 
