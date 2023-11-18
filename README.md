@@ -20,7 +20,7 @@
 </div>
 
 ## 🤖[Gihtub Contribution]
-> Commits
+> a cool snake is eatting the commits
 
 <div align="center">
     
