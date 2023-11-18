@@ -3,11 +3,13 @@
 
 🕶️ **Information Security**
 
-🌱 **CTF | HW | OWASP | TOP 10**
+🌱 **CTF | SecT00ls | Excavate Src  | OWASP | TOP 10**
 
 🤔  **Write and Coding** 
 
 🔭 ``Python`` and ``C`` or ``C++``
+
+🚀 The ``golang`` is **learning**
 
 📫 **Contect me：**<a href= "mailto:lidefree@qq.com">MAIL</a>
 ## 🌠[Coding]
