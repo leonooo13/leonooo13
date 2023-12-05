@@ -3,7 +3,7 @@
 
 🕶️ **Information Security**
 
-🌱 **CTF | SecT00ls | Excavate Src  | OWASP | TOP 10**
+🌱 **CTFer | SecT00ls | Excavate Src  | OWASP | TOP 10**
 
 🤔  **Write and Coding** 
 
