@@ -5,13 +5,13 @@
 
 🕶️ **Information Security**
 
-🌱 **CTFer | SecT00ls | Excavate Src  | OWASP | TOP 10**
+🌱 **CTFer | SecT00ls | Excavate Src  | OWASP **
 
 🤔  **Write and Coding** 
 
 🔭 ``Python`` and ``C`` or ``C++``
 
-🚀 The ``golang`` is **learning**
+🚀 The ``golang`` is **learning** ,Produce convenient tools 
 
 📫 **Contect me：**<a href= "mailto:lidefree@qq.com">MAIL</a>
 ## 🌠[Coding]
@@ -21,7 +21,7 @@
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonooo13&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
-## 🤖[Gihtub Contribution]
+## 🤖[Git]
 > a cool snake is eatting the commits
 
 <div align="center">
