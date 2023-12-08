@@ -5,13 +5,13 @@
 
 🕶️ **Information Security**
 
-🌱 **CTFer | SecT00ls | Excavate Src  | OWASP **
+🌱 **CTFer** | **SecT00ls** | **Excavate Src**  | **Cipher**
 
 🤔  **Write and Coding** 
 
 🔭 ``Python`` and ``C`` or ``C++``
 
-🚀 The ``golang`` is **learning** ,Produce convenient tools 
+🚀 The ``golang`` and ``CipherCoin`` is **learning** ,Produce convenient tools 
 
 📫 **Contect me：**<a href= "mailto:lidefree@qq.com">MAIL</a>
 ## 🌠[Coding]
