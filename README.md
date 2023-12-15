@@ -1,7 +1,7 @@
 <h1 align='center'> Hi! This is leonooo13</h1>
 <h1> Yoo, I'm Leonooo13 👋</h1>
 
-👁️ **keep your mind crative** 
+👁️ **keep your mind Creative** 
 
 🕶️ **Information Security**
 
