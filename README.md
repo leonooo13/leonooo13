@@ -11,7 +11,7 @@
 
 🔭 ``Python`` and ``C`` or ``C++``
 
-🚀 The ``golang`` and ``CipherCoin`` is **learning** ,Produce convenient tools 
+🚀 Lifelong is fist
 
 📫 **Contect me：**<a href= "mailto:lidefree@qq.com">MAIL</a>
 ## 🌠[Coding]
