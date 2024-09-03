@@ -3,7 +3,6 @@
 
 🕶️ ** Focus on Information Security**
 
-📫 **Contect me：**<a href= "mailto:lidefree@qq.com">MAIL</a>
 ## 🌠[Coding]
 > Develop me
 <div>
