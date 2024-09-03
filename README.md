@@ -6,7 +6,6 @@
 ## 🌠[Coding]
 > Develop me
 <div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=leonooo13&theme=calm&show_icons=true" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonooo13&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
