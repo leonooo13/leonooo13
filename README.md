@@ -1,17 +1,7 @@
 <h1 align='center'> Hi! This is leonooo13</h1>
 <h1> Yoo, I'm Leonooo13 👋</h1>
 
-👁️ **keep your mind Creative** 
-
-🕶️ **Information Security**
-
-🌱 **CTFer** | **SecT00ls** | **Excavate Src**  | **Cipher**
-
-🤔  **Write and Coding** 
-
-🔭 ``Python`` and ``C`` or ``C++``
-
-🚀 Lifelong is fist
+🕶️ ** Focus on Information Security**
 
 📫 **Contect me：**<a href= "mailto:lidefree@qq.com">MAIL</a>
 ## 🌠[Coding]
