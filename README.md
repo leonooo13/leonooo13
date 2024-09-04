@@ -1,7 +1,7 @@
 <h1 align='center'> Hi! This is leonooo13</h1>
 <h1> Yoo, I'm Leonooo13 👋</h1>
 
-🕶️ ** Focus on Information Security**
+🕶️ **Focus on Information Security**
 
 ## 🌠[Coding]
 > Develop me
@@ -10,7 +10,6 @@
 </div>
 
 ## 🤖[Git]
-> a cool snake is eatting the commits
 
 <div align="center">
     
@@ -21,10 +20,3 @@
 </picture>
     
 </div>
-
-## 🥵[Visit]
-<h3 align='left'>
-
-![Visitor Count](https://profile-counter.glitch.me/leonooo13/count.svg)
-
-</h3>
